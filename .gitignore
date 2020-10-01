@@ -1,0 +1,6 @@
+#intellij
+.idea/
+*.iml
+*.iws
+out/
+artifacts/
